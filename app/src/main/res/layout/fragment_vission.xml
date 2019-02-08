@@ -1,0 +1,63 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.anubh.cosmic.vission">
+
+  <android.support.constraint.ConstraintLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:background="@drawable/spotlight">
+
+      <TextView
+          android:id="@+id/textView60"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="V i s i o n"
+          android:textColor="#FBC104"
+          android:textSize="28sp"
+          app:layout_constraintBottom_toBottomOf="parent"
+          android:layout_marginBottom="8dp"
+          app:layout_constraintTop_toTopOf="parent"
+          android:layout_marginTop="8dp"
+          android:layout_marginRight="8dp"
+          app:layout_constraintRight_toRightOf="parent"
+          android:layout_marginLeft="8dp"
+          app:layout_constraintLeft_toLeftOf="parent"
+          app:layout_constraintHorizontal_bias="0.706"
+          app:layout_constraintVertical_bias="0.186"
+          android:layout_marginStart="8dp"
+          android:layout_marginEnd="8dp" />
+
+      <ScrollView
+          android:layout_width="257dp"
+          android:layout_height="80dp"
+          android:layout_marginTop="8dp"
+          app:layout_constraintTop_toBottomOf="@+id/textView60"
+          app:layout_constraintBottom_toBottomOf="parent"
+          android:layout_marginBottom="8dp"
+          android:layout_marginLeft="8dp"
+          app:layout_constraintLeft_toLeftOf="parent"
+          android:layout_marginRight="8dp"
+          app:layout_constraintRight_toRightOf="parent"
+          app:layout_constraintHorizontal_bias="0.828"
+          app:layout_constraintVertical_bias="0.727">
+
+          <LinearLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical" >
+
+              <TextView
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:id="@+id/textView61"
+                  android:textColor="#FFFE00"
+                  android:textSize="15sp"/>
+              </LinearLayout>
+
+      </ScrollView>
+  </android.support.constraint.ConstraintLayout>
+
+</FrameLayout>

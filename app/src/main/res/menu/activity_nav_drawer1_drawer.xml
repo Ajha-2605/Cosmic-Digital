@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_whatwedo"
+
+            android:title="What We Do" />
+        <item
+            android:id="@+id/nav_whoarewe"
+
+            android:title="Who Are We" />
+        <item
+            android:id="@+id/nav_whyus"
+
+            android:title="Why Us" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_careers"
+
+                android:title="Careers" />
+            <item
+                android:id="@+id/nav_ContactUs"
+
+                android:title="Contact Us" />
+        </menu>
+    </item>
+
+</menu>

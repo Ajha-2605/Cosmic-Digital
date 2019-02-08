@@ -1,0 +1,445 @@
+<resources>
+    <string name="app_name">Cosmic Digital</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_facebook">Facebook</string>
+    <string name="action_twitter">Twitter</string>
+    <string name="action_linkedin">LinkedIn</string>
+    <string name="action_youtube">Youtube</string>
+
+    <string name="TextView2">Latest Technology</string>/*content navigation drawer*/
+    <string-array name="TextView3">/*content navigation drawer*/
+        <item>The multi-dimensional portfolio of world-class </item>
+        <item>entertainment solutions.</item>
+    </string-array>
+    <string-array name="TextView4">/*content navigation drawer*/
+        <item>In today’s digital world, creating an immersive experience - utilising existing tables, </item>
+        <item>floor surfaces and walls- is the need of the time. Cosmic intends to bring evolution in </item>
+        <item>the entertainment experience by aspiring to make every viewer actively participate in</item>
+        <item>the thrills that come alive on the screen. Adopting the innovative technology of touch,</item>
+        <item>multi touch and gesture which has come of age, we create the most engaging and</item>
+        <item>memorable experience. To deliver immersive experiences, Cosmic has partnered</item>
+        <item>with global distributors to provide cinema-goers an out-of-body experience that they</item>
+        <item>aspire for. Explore the multi-dimensional portfolio of world-class entertainment</item>
+        <item>solutions that include a combination of 7D cinema, Interactive floors, Pyramid Holographics,</item>
+        <item>Karaoke Booths and 360 degree videos that turn virtual into real.</item>
+    </string-array>
+
+    <string name="TextView5">The only Constant at Cosmic is Change</string>/*limitless_fragment*/
+    <string name="TextView6">Limitless Possibilities</string>/*limitless_fragment*/
+    <string-array name="TextView7">/*limitless_fragment*/
+        <item>Cosmic Digital is an innovation driven company that designs and creates simulation solutions,</item>
+        <item>which have applications in Entertainment, Education, Retail and Marketing domains.</item>
+        <item>We customise products based on briefs provided by our clients to provide specific solutions in these industries.</item>
+        <item>Apart from these, we also have a wide array of standard simulation products that are “Ready to Go”!</item>
+        <item>Cosmic has designed a range of future-proof products to make Education- easy and fun,</item>
+        <item>Entertainment- multi sensory, Retail- attractive and impactful and Marketing- ROI driven. </item>
+        <item>Our portfolio includes 7D simulators, Interactive floors, Pyramid Holographic, Recording booths,</item>
+        <item>360 Theatres, Digital Interactive Surfaces, Magical Mirrors, Interactive Dispensers, Immersive Tunnel and many more.</item>
+    </string-array>
+
+    <string name="TextView8">Ultimate Virtual Reality</string>/*virtualreality_fragment*/
+    <string-array name="TextView9">/*virtualreality_fragment*/
+        <item>Do you have an audience waiting to experience effects that are virtual, yet real?</item>
+        <item>Do they want to feel the tickle of water drops hitting against their feet with the simplest tools available?</item>
+        <item>Do they wish to experience the feel of being caught right in the middle of a storm?</item>
+        <item> Do they crave for an experience brought on by being blinded by lights and mist of smoke?</item>
+        <item>Cosmic brings to you such wonderful and engaging solutions that leave a deep impact on your audience.</item>
+        <item>Navigate your way for all the effects curated by us that are virtual yet real.</item>
+    </string-array>
+
+    <string name="TextView10">Water spray effect</string>/*effect_fragment*/
+    <string name="TextView11">Blowing wind effect</string>/*effect_fragment*/
+    <string name="TextView12">Fragrance effect</string>/*effect_fragment*/
+    <string name="TextView13">Strobe lighting effect</string>/*effect_fragment*/
+    <string name="TextView14">Smoke effect</string>/*effect_fragment*/
+
+    <string name="TextView15">Magical Effects</string>/*magic_fragment*/
+
+    <string name="TextView16">Special Effects</string>/*magic_fragment*/
+
+    <string name="TextView17">Visual Effects</string>/*visual_fagment*/
+
+    <string name="TextView18">Sensory Effects</string>/*sensory_fragment*/
+
+    <string name="TextView19">Interactive Floors</string>/*Interactive_floors_fragment*/
+    <string-array name="TextView20">/*Interactive_floors_fragment*/
+        <item>Easily customizable and displaying high resolution graphics, Interactive Floors</item>
+        <item>are the demand of the time, be it at events, conferences, fashion shows, product</item>
+        <item>launches or any product marketing events. A boon for retail industry, they enhance the </item>
+        <item>retail show window and aid in increasing the footfall of the clients.</item>
+        <item></item>
+        <item>Combining all the fun elements of dancing flames, shimmering water, floating fish, magical stars,</item>
+        <item>blooming flowers and visual auras, Cosmic Digi offers creative design services to customize and </item>
+        <item>optimize your retail and marketing campaign. Not only this, those places which are frequented by kids </item>
+        <item>we can offer interactive floors with games. This has become a huge success in entertaining and engaging kids</item>
+        <item>in an innovative way.</item>
+        <item>        </item>
+        <item>Our production team provides an array of interactive scenarios that can be used “as it is”</item>
+        <item>or easily adapted with your corporate logo to get you custom–branded interactive display,</item>
+        <item>up and running quickly.</item>
+    </string-array>
+
+    <string name="TextView21">Technical Specification</string>/*techspec_fragment ,
+    techspec2_fragment.techspec3_fragment */
+    <string-array name="TextView22">/*techspec_fragment*/
+        <item>Clap Sensing</item>
+        <item></item>
+        <item>Projector Scheduitemng</item>
+        <item></item>
+        <item>Remote Management</item>
+        <item></item>
+        <item>Multiple Display Technology Support</item>
+        <item></item>
+        <item>Multisensor Support</item>
+        <item></item>
+        <item>Projection Correction Software</item>
+        <item></item>
+        <item>Silhouette Tracking</item>
+        <item></item>
+        <item>Magix Code</item>
+    </string-array>
+
+    <string name="TextView23">Pyramid Holographic</string>/*pyramid_fragment*/
+    <string-array name="TextView24">/*pyramid_fragment*/
+        <item>Pyramid Holographic is the latest in projection systems. Users control dynamic</item>
+        <item>multimedia interactive displays with simple gestures and body movement hence making it</item>
+        <item>a full, body-engaging experience.</item>
+        <item></item>
+        <item>A science project experimented in education industry has taken the entertainment industry</item>
+        <item>by storm, as it works on the 3D projection mirror principle in reality. Watch out for this </item>
+        <item>product, rich in edutainment features to boost the retail and marketing of your products.</item>
+        <item>With interactive pyramid you can experience the magical mixing of Virtual images with the</item>
+        <item>real objects, nice to see, exciting for the audiences, fun for kids and captures attention of</item>
+        <item>the audiences of all ages. It is capable of delivering products in stunning High Definition</item>
+        <item>resolution, so that it matches the real environment perfectly and creates vivid, stunning visual</item>
+        <item>effects. Hence place your promotional material right at the center of attention which, with its</item>
+        <item>presence, will trigger retail and marketing exponentially, thereby increasing the number of</item>
+        <item>clients/buyers who visit your store.</item>
+    </string-array>
+
+    <string name="TextView25">Working Principle</string>/*techspec2_fragment*/
+    <string name="TextView26">Features</string>/*techspec2_fragment*/
+    <string-array name="TextView27">/*techspec2_fragment*/
+        <item>Holographic display 3D pyramid is based on three-dimension(3D) projection mirror principle.</item>
+        <item>It can play 3D light and shadow imaging floated in the air under treatment of 3D imaging</item>
+        <item>device. Viewers can walk a circle around the four-dimensional imaging system to watch the </item>
+        <item>mirror image projection suspended in the air.</item>
+    </string-array>
+    <string-array name="TextView28">/*techspec2_fragment*/
+        <item>Works on 3D projection mirror principle</item>
+        <item>Easy to operate</item>
+        <item>Easy to Set Up-Plug and Play</item>
+        <item>Available in various sizes (19”/22”/32”/42”)</item>
+        <item>Easily customizable</item>
+        <item>Visually stunning product display</item>
+        <item>Combines holographic 3D content with physical products</item>
+        <item>Full HD resolution</item>
+        <item>Displays 3D holographic animation with actual scenes</item>
+    </string-array>
+
+    <string name="TextView29">Components</string>/*techspec3_fragment*/
+    <string name="TextView31">Extensively Used</string>/*techspec3_fragment*/
+    <string-array name="TextView30">/*techspec3_fragment*/
+        <item>The Appearance Cabinet</item>
+        <item>LED Display</item>
+        <item>3D Image Transmit Device</item>
+        <item>Display Device</item>
+    </string-array>
+    <string-array name="TextView32">/*techspec3_fragment*/
+        <item>Advertising and branding</item>
+        <item>Events and promotions</item>
+        <item>Exhibitions and trade shows</item>
+        <item>Hotels, restaurants, corporate lobbies</item>
+        <item>Gaming arenas, parties and clubs</item>
+
+    </string-array>
+
+    <string name="TextView33">G a l l e r y</string>/*gallery_fragment*/
+
+    <string name="TextView34">Recording Booth</string>/*recordin_fragment*/
+    <string-array name="TextView35">/*recording_fragment*/
+        <item>Bring out the singing sensation in you and your guests with a truly</item>
+        <item>enthralling professional recording studio experience and redefine entertainment.</item>
+        <item>Built-in with world class multimedia and ambient noise reduction capabilities,</item>
+        <item>excellent sound processors, headphones and microphones combine to create a perfect</item>
+        <item>setting for recordings.  A fantastic tool for entertainment and marketing, this</item>
+        <item>will enable you to record ones voice in complete privacy of the booth.</item>
+        <item></item>
+        <item>Equipped with touch screen capabilities and user-friendly menus for numerous</item>
+        <item>functionalities, you get access to a library of popular karaoke song lists</item>
+        <item>that you can record and burn into a high quality CD or you could simply go with</item>
+        <item>lyrics that you have in your mind. Experience the luxury of state-of-the-art recording</item>
+        <item>booth with smart audio/visual instructions that make it easier for you </item>
+        <item>to enjoy your recording sessions.</item>
+    </string-array>
+
+    <string name="TextView36">7D Cinema and Simulator</string>/*cinema_fragment*/
+    <string-array name="TextView37">/*cinema_fragment*/
+        <item>We lead the way in paraphrasing the adage “now you see now you don’t”</item>
+        <item>to an excellent animation level of a quality that merges the visual and the non-visual.</item>
+        <item>Armed with an award winning animation studio, capable of delivering the best of 3D</item>
+        <item>and 4D entertainment and education, Cosmic resolves to set new standards in out-of-home</item>
+        <item>entertainment for digital revolution. It offers an overwhelming emotional experience by </item>
+        <item>involving the audience fully into the movie and converting the watching experience</item>
+        <item>into being more interactive.</item>
+
+        <item></item>
+        <item>7D cinema and simulator takes the entertainment to a different level by making it</item>
+        <item>7 dimensional. The on-screen creatures come alive with the help of motion sensors and</item>
+        <item>remote controls. The seats are fully equipped and designed to guarantee comfort and safety </item>
+        <item>to the viewers as they move in six directions and tilt to sides.</item>
+        <item></item>
+        <item>It brings the additional effects of lightning, wind, rain, snow and fog</item>
+        <item>with a punch of reality on the giant screen to teleport you seamlessly into the</item>
+        <item>scene. The physical effects of rain in the film are experienced from water sprinklers</item>
+        <item>on seats to fragrances that are released at opportune moments. More effects include fog </item>
+        <item>and fake showers that simulate rain scenes in the movie. The enhanced experience of 7D </item>
+        <item>differs from 3D as it is not just the visual effects but active involvement of human sensory</item>
+        <item>organs like smell, touch and movement.</item>
+    </string-array>
+
+    <string-array name="TextView38">/*techspecr4_fragment*/
+        <item>Customized seats for simulation</item>
+        <item>Varied experience of simulation</item>
+        <item>3D of Pneumatic and electric</item>
+        <item>Emergency Stop</item>
+        <item>Smooth Motion</item>
+        <item>Accurate and Silent</item>
+        <item>Faux Leather Seats</item>
+        <item>Bars for Special Effects</item>
+        <item>Stats and Effects</item>
+        <item>Leg Ticklers</item>
+        <item>Air Jet</item>
+        <item>Water Spray</item>
+        <item>Vibration</item>
+        <item>Tornado Effect</item>
+        <item>Snow Effect</item>
+        <item>Lighting Effect</item>
+        <item>Bubble Effect</item>
+        <item>Scent Effect</item>
+        <item>Smoke Effect</item>
+        <item>Rain Effect</item>
+        <item>3D HD Projection Server</item>
+        <item>3D HD Projectors</item>
+        <item>3D Giant Screen 16:9</item>
+        <item>3D Audio 5.1</item>
+    </string-array>
+
+    <string name="TextView39">360 Theater</string>/*theater_fragment*/
+    <string-array name="TextView43">
+        <item>360 theatre is created with a camera system that simultaneously records all the</item>
+        <item>scenes in 360 degree. With this new source of entertainment, viewers can pan and</item>
+        <item>rotate a 360 degree video’s perspective to watch it from any angle.</item>
+        <item></item>
+        <item>360 theatres are a modern trend in video production for many brands</item>
+        <item>and media companies around the world. They are mainly created to visually (on a small screen)</item>
+        <item>trigger people to “turn their head”.</item>
+
+        <item>Cosmic Digital makes spherical videos a reality, by providing affordable hardware</item>
+        <item>and software packages that deliver high-resolution 360° visual coverage possible.</item>
+    </string-array>
+    <string-array name="TextView40">/*theater_fragment*/
+        <item>Md Theatre 360</item>
+        <item>Emergency Stop</item>
+        <item>Smooth Motion</item>
+        <item>Roll 360</item>
+        <item>360 Rotating Platform</item>
+        <item>Accurate And Silent</item>
+        <item>Rotating Seats In Faux Leather</item>
+        <item>Circular Bar For Efx</item>
+        <item>360 4D Ride Films - Lenght 10</item>
+        <item>Special Effects</item>
+        <item>Air Jet</item>
+        <item>Water Spray</item>
+        <item>Vibration</item>
+        <item>Tornado Effect</item>
+        <item>Snow Effect</item>
+        <item>Lighting Effect</item>
+        <item>Bubble Effect</item>
+        <item>Scent Effect</item>
+        <item>Smoke Effect</item>
+        <item>Rain Effect</item>
+        <item>3D Hd Projection Server</item>
+        <item>12 3D Hd Projectors</item>
+        <item>3D Linear Glasses</item>
+        <item>360 3D Screen</item>
+        <item>3D Audio 8.1</item>
+        <item>Minimum Space Required</item>
+        <item>MD 360  15 Seats 07X07X4 MT</item>
+        <item>MD 360 25 Seats 09X09X4 MT</item>
+        <item>MD 360  40 Seats 11X11X5 MT</item>
+        <item>MD 360 60 Seats 14X14X6 MT</item>
+
+    </string-array>
+
+    <string name="TextView41">Immersive Tunnel Safari</string>/*tunnel_fragment*/
+    <string-array name="TextView42">
+        <item>Virtual Reality has a new dimensional experience to the animal safari.</item>
+        <item>Be prepared to bump into new surprises of wild animals of the jungle,</item>
+        <item>delivering real and exhilarating experience as you move along. </item>
+        <item>It is real and packed with entertainment and thrills to keep you on the edge.</item>
+        <item>There is no telling what animals you may come across as you ride in your</item>
+        <item>Safari Jeep, pulled by your guides. With our solutions, you can plan for creating</item>
+        <item>such thrilling rides that you wont get from anywhere else.</item>
+    </string-array>
+    <string name="TextView44">Zero Gravity Oculus</string>/*oculus_fragmnet*/
+    <string-array name="TextView45">/*oculus_fragment*/
+        <item>Zero Gravity Oculus allows the user to experience total immersion in an</item>
+        <item>atmosphere of extreme attractions which never judders or pauses.  Realistic</item>
+        <item>graphics complemented by a unique suspension system chair allows one to use </item>
+        <item>not only their eyes, but also vestibular apparatus, giving bright and spectacular</item>
+        <item>visual treat that is simply undefinable.</item>
+        <item></item>
+        <item>A virtual treat for science lovers, Zero Gravity Oculus gives one an opportunity </item>
+        <item>to explore the universe by means of entertainment. </item>
+    </string-array>
+
+    <string-array name="TextView47">/*freefall*/
+        <item>Soar with an indoor free fall experience in a new dimensional experience through our</item>
+        <item>technologically advanced hardware creating the thrill just like the real free fall. With</item>
+        <item>advanced technology it enables flyers to execute and experience the effects of free fall with ease.</item>
+        <item></item>
+        <item>The concept on which it works is very simple and interesting. Here’s how it goes  a person is secured</item>
+        <item>with a structure which during the  simulation moves to 90 degrees  and due to rapid velocity of rotation</item>
+        <item>the person will be taken really to -0.9g (g= gravitational constant). Hence, it gives an illusion of free fall.</item>
+        <item>With the help of oculus simulation, the person will experience virtual world supplemented with real.</item>
+    </string-array>
+    <string name="TextView46">Free Fall</string>
+
+    <string name="TextView48">Interactive Digital Table</string>
+    <string-array name="TextView49">
+        <item>Create a memorable experience through digital tables that are enabled to make each one of you highly engaged with</item>
+        <item>its multi-touch experiences. Popular at dining restaurants, it has taken the experience of dining by storm, as </item>
+        <item>customers are given the control to choose their table ambience and discover prominent places in near vicinity. It</item>
+        <item>allows customers the ease of tableside payment and is loaded with gaming apps that bring entertainment to guests while</item>
+        <item>they order.</item>
+        <item></item>
+        <item>Interactive tables are a boon for retail and a blessing for your marketing needs. An ideal element for infotainment,</item>
+        <item>advertising, branding and promotional campaigns. They can be easily installed in shops, museums, bars, trade fairs,</item>
+        <item>clubs, foyers, hotels, lounges and indoor game play areas as the height component has an added edge to make it kids friendly.</item>
+    </string-array>
+    <string name="TextView50">Magical Mirror</string>
+    <string-array name="TextView51">
+        <item>Redefining experiences, it gives one a direct or an indirect view of a physical, real-world environment whose elements are</item>
+        <item>supplemented by computer-generated sensory inputs such as sound, video and graphics.</item>
+        <item>One of the best solution available for the retail industry. It gives a direct boost to marketing of an experience which justifies</item>
+        <item>the illusion created by the product. A real example of a handshake between virtual and real, illusion and real. </item>
+    </string-array>
+    <string name="TextView52">Simulating Rides</string>
+    <string-array name="TextView53">
+        <item>Simulator rides are a type of fairground rides. Gaming takes a whole new spin in the entertainment zone via simulating</item>
+        <item>rides supported by stunning 3D graphics and amazing special effects, where the audience is shown a movie while their seats</item>
+        <item>move to correspond to the action on screen to trick the mind into thinking it’s really moving through space.</item>
+
+        <item>It takes passengers on an intergalactic adventure without budging an inch and they still feel like they’ve been on an</item>
+        <item>extensive journey after stepping out of a simulator ride. It is a virtual roller coaster where your users can compete with</item>
+        <item>their friends and family to achieve high scores. Simulation rides are nothing short of thrill and fun.</item>
+    </string-array>
+
+    <string name="TextView54">Interactive Dispenser</string>
+    <string-array name="TextView55">
+        <item>Interactive dispensers are vending machines presenting beverage dispensing process into a customized interactive</item>
+        <item>consumer engaging experience. Playful graphic user interface attracts the consumer, presents variety and allows easy</item>
+        <item>interactive choice of one’s drink. Irrespective of you being engrossed in the entertainment zone, you can choose</item>
+        <item>the drinks while playing as the device and dispenser are interconnected. A simple hand gesture allows the user to</item>
+        <item>choose the products. Select a carbonated product and the screen offers several flavor options. A direct source of</item>
+        <item>marketing for beverage industry and entertainment industry together, to deliver the most engaging experience.</item>
+
+    </string-array>
+
+    <string name="TextView56">Video Projection Mapping</string>
+    <string-array name="TextView57">
+        <item>Video projection mapping delivers an experience of viewing a seamless projection of any object onto a screen. With</item>
+        <item>flat projection being a passé, Video projection mapping has the capacity to transform real world objects without any</item>
+        <item>distortion. It allows buildings to move, transform and even communicate. It follows a technique of turning common objects</item>
+        <item>or almost any surface into a dynamic video display. Hence it is the display of an image on a non – flat or non-white</item>
+        <item>surface. A building’s geometry is manipulated but at the same time its architecture highlighted, deconstructed or</item>
+        <item>decontextualized. All this is done with the mix and blend of motion graphics, 3D animation and an occasional dash </item>
+        <item>of video to enhance the original architecture.</item>
+        <item></item>
+        <item>The thrill is in the sheer opulence shown in a subtle way through the illusion created around the everyday and static objects.</item>
+        <item>The playfully reworked and animate projection leaves the audience in awe and glee.</item>
+        <item></item>
+        <item>Video projection mapping can be used for Marketing - advertising, Entertainment - live concerts, theatre, gaming, </item>
+        <item>computing, decoration Education – PowerPoints or anything else you can think of.</item>
+    </string-array>
+    <string-array name="TextView59">
+        <item>Cosmic Digital is a startup focussed on providing multi domain, innovative simulation solutions. Established in 2016,</item>
+        <item>it draws expertise from across countries. Headed by Domenico Scuderi, an Italian, with over 15 years of experience in </item>
+        <item>this domain, it is ably supported by Israeli software professionals and India Business experts. Cosmic works on problem</item>
+        <item>definition with Customer teams and creates complete turnkey solutions to ensure state of the art products that accelerate</item>
+        <item>and maximise ROIs. Backed by a fully owned factory in Greater NOIDA and a talented team to service and fit out the products, </item>
+        <item>Cosmic provides India wide services. One of the key objectives is to #MakeInIndia, the products that are in high demand.</item>
+        <item>Keeping prices competitive is a key for us!</item>
+    </string-array>
+    <string-array name="TextView61">
+        <item>We aspire to be India’s most technologically</item>
+        <item>innovative company in creating value added </item>
+        <item>simulation solutions for our Customers by 2018.</item>
+        <item>By 2020 we aim to cater to regular from the </item>
+        <item>Middle and Far East.</item>
+
+
+    </string-array>
+    <string-array name="TextView63">
+        <item>Cosmic Digital employs innovative and cutting edge technologies</item>
+        <item>to deliver the best simulation solutions in Entertainment, Education,</item>
+        <item>Marketing and Retail domains.</item>
+        <item></item>
+        <item>We make activations in Education- easy and fun, Entertainment- multi</item>
+        <item>sensory, Retail- attractive and impactful and Marketing- ROI driven.</item>
+    </string-array>
+    <string-array name="TextView65">
+        <item> Innovation</item>
+        <item>Creating Value</item>
+        <item>Excellence</item>
+        <item>Customer focused services</item>
+        <item>Agility</item>
+        <item>Quality</item>
+        <item>Commitment</item>
+    </string-array>
+    <string-array name="TextView67">
+        <item>Ashish, is an alumnus of the prestigious Delhi University. He is a well known</item>
+        <item>face in the business circles of India with a very enviable network that spans the</item>
+        <item>Globe. He has been associated with multiple businesses and is renowned for his</item>
+        <item>multi-tasking skills. A people’s person, Ashish is some one with a great vision and</item>
+        <item>an ability to spot and bet on new innovations that catch on in the future.</item>
+    </string-array>
+    <string-array name="TextView68">
+        <item>Armed with several years of experience in the field of entertainment, his </item>
+        <item>endeavour is to deliver the best amalgamation of experience in projection and</item>
+        <item>multimedia system. Installations of state of the art theatres and </item>
+        <item>multi-dimensional simulators in some of the famous museums and theme parks</item>
+        <item>across the globe in the likes of Milan, Israel, Iran etc. are under his wing.</item>
+    </string-array>
+    <string-array name="TextView69">
+        <item>Sumit, a Retail Specialist,  is an MBA from the reputed Birla Institute of Technology.</item>
+        <item>He is currently the Managing Director of Retail One Solutions and Services Private </item>
+        <item>Limited and a member of the ECCO India board. Earlier he had set up the Indian subsidiary</item>
+        <item>of the USD1.2 Billion ECCO SKO  A/S, Denmark in India and served as the MD of the company </item>
+        <item>for a decade.  He has worked for many top companies in multiple roles including Strategy, </item>
+        <item>Sales, Sourcing and Business Performance and has acquired Multi Cultural communication </item>
+        <item>and management skills. He is a regular contributor to leading retail magazines and portals</item>
+        <item>such as etretail.com, Images, STOrai  and the Times of India.</item>
+    </string-array>
+    <string-array name="TextView72">
+        <item>The entertainment world has always endeavored to bring Innovation that thrives to </item>
+        <item>push boundaries of conventional behavior. Cosmic goes way beyond and is a leap forward</item>
+        <item>in evolution of our entertainment experience. From the era of “silent movies” to that</item>
+        <item>of “talkies” and now a “Multi-sensory immersive 7D experience”, Cosmic aspires to make</item>
+        <item>every viewer actively participate in the entertainment experience rather than just sit</item>
+        <item>back and stare at the screen.  It invokes the viewers 7 senses with dynamic touch and </item>
+        <item>feel, 360 degree simulations and special effects to open up a world of perception</item>
+        <item>beyond ordinary sight.</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_nav_drawer1">NavDrawer1</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
